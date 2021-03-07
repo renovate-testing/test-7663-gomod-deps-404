@@ -1,4 +1,4 @@
-# fyne.io/fyne v1.4.0
+# fyne.io/fyne v1.4.3
 fyne.io/fyne
 fyne.io/fyne/app
 fyne.io/fyne/canvas
@@ -24,7 +24,7 @@ fyne.io/fyne/widget
 github.com/davecgh/go-spew/spew
 # github.com/fsnotify/fsnotify v1.4.9
 github.com/fsnotify/fsnotify
-# github.com/fyne-io/mobile v0.1.1
+# github.com/fyne-io/mobile v0.1.2
 github.com/fyne-io/mobile/app
 github.com/fyne-io/mobile/app/internal/callfn
 github.com/fyne-io/mobile/event/key
